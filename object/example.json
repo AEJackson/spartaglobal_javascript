@@ -1,0 +1,32 @@
+person {
+  "person1": {
+    "name":"Richard",
+    "age": 75,
+    "employed": true,
+    "address": {
+      "street number": 33,
+      "street":"church street",
+      "town": "London"
+    }
+  },
+  "person2": {
+    "name":"Anthony",
+    "age": 21,
+    "employed": true,
+    "address": {
+      "street number": 50,
+      "street":"angel street",
+      "town": "Manchester"
+    }
+  },
+  "person3": {
+    "name":"Bob",
+    "age": 50,
+    "employed": false,
+    "address": {
+      "street number": 123,
+      "street":"saint street",
+      "town": "New Castle"
+    }
+  }
+}
